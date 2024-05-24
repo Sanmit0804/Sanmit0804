@@ -41,7 +41,7 @@
 [![My Databases and Cloud](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
 
 ### IDEs and Tools
-[![My IDEs and Tools](https://skillicons.dev/icons?i=vscode,git,github,figma,postman)](https://skillicons.dev)
+[![My IDEs and Tools](https://skillicons.dev/icons?i=vscode,git,github,figma,postman,photoshop,premiere)](https://skillicons.dev)
 
 
 <br/>
