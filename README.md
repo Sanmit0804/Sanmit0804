@@ -32,7 +32,7 @@
 ---
 
 ### Languages 🛠 
-[![My Programming Languages](https://skillicons.dev/icons?i=java,ts,js,html,css)](https://skillicons.dev)
+[![My Programming Languages](https://skillicons.dev/icons?i=java,ts,js,html,css,ejs)](https://skillicons.dev)
 
 ### Development Frameworks and Libraries
 [![My Development](https://skillicons.dev/icons?i=react,express,nodejs,tailwind)](https://skillicons.dev)
