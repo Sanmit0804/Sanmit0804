@@ -23,7 +23,7 @@
 
 ## I'm a Computer Engineering Student  
 
-- 👨‍💻 I’m currently working on <a href="https://sanmit0804.github.io/FastFingers/FastFingers/">FastFingers</a> project.
+- 👨‍💻 I’m currently working on <a href="https://github.com/Sanmit0804/Thoughts-YourSocialApp">Thoughts - Your Social App</a> project.
 - 📚 I’m currently learning everything about MERN Stack Development 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play Rock paper scissors.
