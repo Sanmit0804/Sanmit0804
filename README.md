@@ -27,7 +27,7 @@
 - 📚 I’m currently learning everything about MERN Stack Development 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play Rock paper scissors.
-- 📝 My Notes: <a href="https://tidy-aardvark-be4.notion.site/Java-1e90d9927b8e45d197467592581bde7d">Notes by Sanmit</a>
+- 📝 My Notes: <a href="https://tidy-aardvark-be4.notion.site/Java-1e90d9927b8e45d197467592581bde7d" target="_blank">Notes by Sanmit</a>
 <br>
 
 ---
