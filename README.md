@@ -23,7 +23,7 @@
 
 ## I'm a Computer Engineering Student  
 
-- 👨‍💻 I’m currently working on <a href="https://zingy-dusk-88ecb6.netlify.app/">Portfolio</a> project using Reactjs.
+- 👨‍💻 I’m currently working on <a href="https://sanmitsuthar.netlify.app/">Portfolio</a> project using Reactjs.
 - 📚 I’m currently learning everything about MERN Stack Development 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play Rock paper scissors.
