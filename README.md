@@ -19,6 +19,8 @@
 <br>
 <br>
 
+
+
 ---
 
 <!-- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> -->
@@ -51,7 +53,7 @@
 <br/>
 <h2 align="center"> Github Statistics 📈</h2>
  
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sanmit0804&theme=dark&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -59,4 +61,14 @@
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Sanmit0804&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</a><br><br>
+</a><br><br>   -->
+
+<div>
+  <div align="center">
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sanmit0804&show_icons=true&theme=dark&hide_border=true&locale=en"/>
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanmit0804&theme=dark&hide_border=true"/>
+  </div>
+  
+  ![Contribution](https://github-readme-activity-graph.vercel.app/graph?username=Sanmit0804&bg_color=151515&color=fff&line=38536a&point=38a0ff&area=true&hide_border=true)
+
+</div>
