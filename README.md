@@ -1,4 +1,3 @@
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&size=35&center=true&vCenter=true&width=500&height=70&color=CDCFCA&duration=2000&lines=Hi+👋+I'm+Sanmit;" />
 </h1>
@@ -63,6 +62,7 @@
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Sanmit0804&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </a><br><br>   -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sanmit0804&label=Profile%20views&color=0e75b6&style=flat" alt="Sanmit0804" /> </p>
 <div>
   <div align="center">
     <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sanmit0804&show_icons=true&theme=dark&hide_border=true&locale=en"/>
