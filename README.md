@@ -40,7 +40,7 @@
 [![My Programming Languages](https://skillicons.dev/icons?i=java,ts,js,html,css)](https://skillicons.dev)
 
 ### Development Frameworks and Libraries
-[![My Development](https://skillicons.dev/icons?i=react,express,nodejs,tailwind,electron)](https://skillicons.dev)
+[![My Development](https://skillicons.dev/icons?i=react,redux,express,nodejs,tailwind,electron)](https://skillicons.dev)
 
 ### Databases 🛠 
 [![My Databases and Cloud](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
