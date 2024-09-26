@@ -1,6 +1,11 @@
 <h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&size=35&center=true&vCenter=true&width=500&height=70&color=CDCFCA&duration=2000&lines=Hi+👋+I'm+Sanmit;" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&size=35&center=true&vCenter=true&width=500&height=70&color=404040&duration=2000&lines=Hi+👋+I'm+Sanmit;" />
     <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&size=35&center=true&vCenter=true&width=500&height=70&color=CDCFCA&duration=2000&lines=Hi+👋+I'm+Sanmit;" />
+  </picture>
 </h1>
+
 <h3 align="center">A passionate developer from India</h3>
 
 
