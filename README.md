@@ -67,13 +67,30 @@
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Sanmit0804&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </a><br><br>   -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sanmit0804&label=Profile%20views&color=0e75b6&style=flat" alt="Sanmit0804" /> </p>
-<div>
-  <div align="center">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sanmit0804&show_icons=true&theme=dark&hide_border=true&locale=en"/>
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanmit0804&theme=dark&hide_border=true"/>
-  </div>
-  
-  ![Contribution](https://github-readme-activity-graph.vercel.app/graph?username=Sanmit0804&bg_color=151515&color=fff&line=38536a&point=38a0ff&area=true&hide_border=true)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Sanmit0804&label=Profile%20views&color=0e75b6&style=flat" alt="Sanmit0804" />
+</p>
 
+<div>
+  <span >
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Sanmit0804&show_icons=true&theme=dark&hide_border=true&locale=en" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Sanmit0804&show_icons=true&theme=default&hide_border=true&locale=en" />
+      <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sanmit0804&show_icons=true&theme=dark&hide_border=true&locale=en" alt="GitHub Stats" />
+    </picture>
+  </span>
+  <span >
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Sanmit0804&theme=dark&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Sanmit0804&theme=default&hide_border=true" />
+      <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanmit0804&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+    </picture>
+  </span>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sanmit0804&bg_color=151515&color=fff&line=38536a&point=38a0ff&area=true&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sanmit0804&bg_color=f0f0f0&color=151515&line=38536a&point=38a0ff&area=true&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanmit0804&bg_color=151515&color=fff&line=38536a&point=38a0ff&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+  </picture>
 </div>
+
