@@ -42,7 +42,7 @@
 ---
 
 ### Languages 🛠 
-[![My Programming Languages](https://skillicons.dev/icons?i=html,css,scss,js,php,java)](https://skillicons.dev)
+[![My Programming Languages](https://skillicons.dev/icons?i=html,css,scss,js,ts,php,java)](https://skillicons.dev)
 
 ### Development Frameworks and Libraries
 [![My Development](https://skillicons.dev/icons?i=nextjs,react,redux,express,nodejs,tailwind,bootstrap,electron)](https://skillicons.dev)
