@@ -15,7 +15,7 @@
 <a href="discordapp.com/users/748110093672775721" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sanmit0804" height="30" width="40" /></a>
 <a href="https://www.instagram.com/im_sanmit_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sanmit0804" height="30" width="40" /></a>
 <!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Vaibhav02" height="30" width="40" /></a> -->
-<a href="https://leetcode.com/u/Sanmit0804/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaibhav_jaiswal" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Sanmit0804/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanmit_suthar" height="30" width="40" /></a>
 <!-- <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Sanmit0804" height="30" width="40" /></a> -->
 <!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vaibhav_jaiswal" height="30" width="40" /></a> -->
 <!-- <a href=""><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Sanmit0804" height="30" width="40" /></a> -->
@@ -35,7 +35,6 @@
 - 👨‍💻 I’m currently working on my <a href="https://sanmitsuthar.netlify.app/">Portfolio</a> using Reactjs.
 - 📚 I’m currently learning everything about MERN Stack Development 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play Rock paper scissors.
 - 📝 My Notes: <a href="https://tidy-aardvark-be4.notion.site/Java-1e90d9927b8e45d197467592581bde7d" target="_blank">Notes by Sanmit</a>
 <br>
 
