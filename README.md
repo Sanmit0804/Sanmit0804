@@ -32,9 +32,10 @@
 
 ## I'm a Software Developer  
 
-- 👨‍💻 I’m currently working on my <a href="https://sanmitsuthar.vercel.app/">Portfolio</a> using Reactjs.
+- 👨‍💻 I’m currently working on a <a href="https://github.com/Sanmit0804/DreamClick">DreamClick project</a> using Nextjs.
 - 📚 I’m currently learning everything about MERN Stack Development 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 🚀 Please take a look at my <a href="https://sanmitsuthar.vercel.app/">Portfolio</a>
 - 📝 My Notes: <a href="https://tidy-aardvark-be4.notion.site/Java-1e90d9927b8e45d197467592581bde7d" target="_blank">Notes by Sanmit</a>
 <br>
 
